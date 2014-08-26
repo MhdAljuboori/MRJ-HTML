@@ -134,7 +134,7 @@ strong {
 }
 
 img {
-  position: relative;
+/*  position: relative;
   margin: 0 auto;
   max-width: 739px;
   padding: 5px;
@@ -145,7 +145,7 @@ img {
   -webkit-box-shadow: 0 0 5px #ebebeb;
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  -ms-box-shadow: 0 0 5px #ebebeb;*/
 }
 
 p img {
@@ -250,8 +250,8 @@ td {
  }
 
 form {
-  background: #f2f2f2;
-  padding: 20px;
+/*  background: #f2f2f2;
+  padding: 20px;*/
 }
 
 /*******************************************************************************
@@ -314,7 +314,7 @@ Full-Width Styles
 }
 
 #downloads {
-  position: absolute;
+  /*position: absolute;*/
   width: 210px;
   z-index: 10;
   bottom: -40px;
